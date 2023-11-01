@@ -1,0 +1,1055 @@
+{
+    "company_name": {
+        "title": "Bienvenido a la agencia de consultoría"
+    },
+    "banner_section": {
+        "main": "Somos",
+        "heading1": "Oradores Profesionales de Negocios",
+        "heading2": "Médicos MBBS Profesionales",
+        "heading3": "Manitas Profesionales",
+        "paragraph": "Desarrollamos las relaciones que sustentan la próxima fase de crecimiento de tu organización",
+        "button": "Empezar"
+    },
+    "contact_label": {
+        "heading": "¿Necesitas Servicios de Consultoría?",
+        "sub_heading": "Llámanos ahora",
+        "paragraph": "Ayuda en la construcción de un sistema efectivo para el negocio."
+    },
+    "we_will_section": {
+        "heading": "Te guiaremos hacia tu",
+        "paragraph": "Nuestro servicio asume las tareas que las computadoras hacen mejor",
+        "sub_heading": "éxito"
+    },
+    "consultant_type_section": {
+        "type_1": "Religioso",
+        "type_2": "Espiritual",
+        "type_3": "Médico",
+        "type_4": "Educación",
+        "type_5": "Carrera",
+        "type_6": "Legal",
+        "type_7": "Social",
+        "type_8": "Cultural",
+        "type_9": "Reparación y Mantenimiento",
+        "type_10": "Entrega a Domicilio",
+        "type_11": "Servicios Financieros",
+        "type_12": "Viajes",
+        "type_13": "Comercio Electrónico",
+        "type_14": "Gestión de Recursos",
+        "type_15": "Marketing",
+        "type_16": "Negocios",
+        "type_18": "Servicios Digitales",
+        "type_19": "Automóviles",
+        "type_20": "Servicio",
+        "type_21": "Sin Asignar"
+    },
+    "banner_why_section": {
+        "main": "familia goodlic",
+        "heading": "Por qué elegir ",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem fugit dolorem quo tempora suscipit animi reiciendis, impedit adipisci ipsa exercitationem labore pariatur omnis voluptatibus. Quidem quod eaque animi eius explicabo.",
+        "heading1": "Más de 12,000 Expertos Verificados",
+        "heading2": "Cada pregunta ahorra dinero",
+        "heading3": "Servicio adaptado a ti",
+        "heading4": "Ahorra tiempo valioso en casa"
+    },
+    "here_are_section": {
+        "heading": "Aquí están nuestros mejores clasificados",
+        "paragraph": "Puedes encontrar los mejores servicios de consultoría relacionados con tus consultas",
+        "sub_heading": "guías",
+        "main": "éxito"
+    },
+
+    "banner_how_to_book_section": {
+        "heading": "Cómo reservar una cita a través de la aplicación móvil",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique minus ex natus, nihil architecto sequi a reiciendis delectus quae, in qui. Dolore blanditiis tenetur porro rem dicta debitis vero officia.",
+        "button_1": "OBTENERLO EN Google Play",
+        "button_2": "OBTENERLO EN App Store"
+    },
+
+    "banner_meet_the_people": {
+        "sub_text": "felices",
+        "sub_text1": "servicios",
+        "sub_text2": "con nuestra",
+        "heading": "Conoce a las personas que son",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In facilis ipsa necessitatibus, rem sapiente nisi quisquam nostrum molestias consectetur et exercitationem fuga quibusdam nulla ut, iusto dolorum aliquam. Doloremque, porro."
+    },
+
+    "banner_become_consultant": {
+        "heading": "Cómo Convertirse en",
+        "paragraph_1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error nemo voluptatum voluptate corrupti, maiores illo odit, architecto nisi fugiat assumenda maxime esse nihil quod dolore consectetur tempora veritatis expedita dolorum.",
+        "paragraph_2": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga molestiae, porro vel explicabo maxime voluptate facilis corrupti natus quibusdam in aut sequi qui recusandae iste repellendus enim. Cumque, odio magnam.",
+        "button": "Ver un Video",
+        "sub_heading": "Consultor"
+    },
+
+    "banner_payment_method": {
+        "main": "Hemos usado",
+        "heading": "¿Cuál es el método de pago?",
+        "paragraph_1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error nemo voluptatum voluptate corrupti, maiores illo odit, architecto nisi fugiat assumenda maxime esse nihil quod dolore consectetur tempora veritatis expedita dolorum."
+    },
+
+    "banner_see_our": {
+        "heading": "Ver Nuestras Últimas",
+        "paragraph": "Nuestro servicio asume las tareas que las computadoras hacen mejor",
+        "sub_heading": "Noticias",
+        "sub_heading1": "Blog",
+        "by": "Por:"
+    },
+
+    "newsletter_section": {
+        "heading": "Suscripción al Boletín",
+        "sub_heading": "Únete a nuestra lista de suscripción para recibir las últimas noticias, actualizaciones y ofertas especiales directamente en tu bandeja de entrada",
+        "text_placeholder": "Ingresa tu Correo Electrónico"
+    },
+
+    "about_us_section": {
+        "heading": "Acerca de Nosotros",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae iste voluptatem, quia reprehenderit ab, quos ipsum eligendi neque similique iusto illum nemo quo ad aliquid aliquam amet nesciunt blanditiis totam!"
+    },
+
+    "overview_section": {
+        "heading": "Resumen",
+        "heading1": "Inicio",
+        "heading2": "Nuestros Servicios",
+        "heading3": "Nuestro Blog",
+        "heading4": "Contáctanos",
+        "heading45": "Acerca de Nosotros"
+    },
+    "services_section": {
+        "heading": "Servicios",
+        "heading1": "Consultoría de Seguros",
+        "heading2": "Consultoría Financiera",
+        "heading3": "Comercio de Inversiones",
+        "heading4": "Análisis Financiero",
+        "heading5": "Plantas Manufactureras"
+    },
+
+    "useful_links_section": {
+        "heading": "Páginas de Contenido",
+        "heading1": "Oportunidades de Empleo",
+        "heading2": "Centro de Soporte",
+        "heading3": "Plan de Precios",
+        "heading4": "Centro de Soporte",
+        "heading5": "Galería"
+    },
+
+    "contact_information_section": {
+        "heading": "Información de Contacto",
+        "heading1": "234 Sample Ave. Sampling.FL USA 2345",
+        "heading2": "(800) 123-6789",
+        "heading3": "info@info.com"
+    },
+
+    "categories_banner_section": {
+        "heading": "Encuentra tus Categorías Favoritas",
+        "paragraph": "Desarrollamos las relaciones que respaldan la siguiente fase de crecimiento de tu organización."
+    },
+
+    "categories_label_section": {
+        "heading": "Busca tu Tema Favorito",
+        "sub_heading": "Ayuda en la construcción de un sistema efectivo para el negocio.",
+        "place_holder": "Buscar"
+    },
+
+    "categories_sidebar_section":{
+        "filter":"Filtrar",
+        "price":"Precio",
+        "clear":"Limpiar",
+        "apply":"Aplicar",
+        "search": "Buscar"
+    },
+
+    "categories_banner_view": {
+        "heading": "Ver respuestas y preguntas relacionadas con tu tema",
+        "sub_heading": "Nuestro servicio asume las tareas que las computadoras hacen mejor",
+        "question_1": "Pregunta frecuente #1",
+        "answer_1": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae numquam architecto laborum provident tenetur dolores, eos quidem iste aperiam ad cum odit deserunt delectus ab deleniti magni recusandae, quam quia.",
+        "question_2": "Pregunta frecuente #2",
+        "answer_2": "Este es el cuerpo del acordeón del segundo elemento. Está oculto por defecto, hasta que el complemento de colapso agregue las clases adecuadas que usamos para dar estilo a cada elemento. Estas clases controlan la apariencia general, así como la muestra y ocultación a través de transiciones CSS. Puedes modificar todo esto con CSS personalizado o sobrescribir nuestras variables predeterminadas. También vale la pena señalar que casi cualquier HTML puede ir dentro del .accordion-body, aunque la transición limita el desbordamiento.",
+        "question_3": "Pregunta frecuente #3",
+        "answer_3": "Este es el cuerpo del acordeón del tercer elemento. Está oculto por defecto, hasta que el complemento de colapso agregue las clases adecuadas que usamos para dar estilo a cada elemento. Estas clases controlan la apariencia general, así como la muestra y ocultación a través de transiciones CSS. Puedes modificar todo esto con CSS personalizado o sobrescribir nuestras variables predeterminadas. También vale la pena señalar que casi cualquier HTML puede ir dentro del .accordion-body, aunque la transición limita el desbordamiento."
+    },
+
+    "categories_banner_dont_find": {
+        "heading": "No Encontraste Ninguna Respuesta",
+        "sub_heading": "Nuestro servicio asume las tareas que las computadoras hacen mejor",
+        "button": "Contáctanos"
+    },
+
+    "blog_banner_section": {
+        "heading": "Nuestras Últimas Noticias y Blogs",
+        "paragraph": "Desarrollamos las relaciones que respaldan la siguiente fase de crecimiento de tu organización."
+    },
+
+    "about_banner_section": {
+        "heading": "Acerca de Nosotros",
+        "paragraph": "Desarrollamos las relaciones que respaldan la siguiente fase de crecimiento de tu organización."
+    },
+
+    "about_our_agency_section": {
+        "heading": "Acerca de Nuestra ",
+        "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.",
+        "paragraph_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum",
+        "sub_heading": "Agencia"
+    },
+
+    "about_why_choose_section": {
+        "heading": "Por Qué Elegirnos",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.",
+        "heading_1": "Monitoreo de Ventas",
+        "paragraph_1": "El Sistema de Monitoreo de Ventas es una forma de mantener un ojo en cómo vende una empresa",
+        "heading_2": "Inteligencia Empresarial",
+        "paragraph_2": "El Sistema de Inteligencia Empresarial es una forma de mantener un ojo en cómo vende una empresa",
+        "heading_3": "Siempre sin Problemas",
+        "paragraph_3": "Ofrecemos una variedad de políticas para proteger a individuos y negocios con pagos regulares"
+    },
+
+    "about_our_mission_section": {
+        "heading": "Nuestra ",
+        "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.",
+        "paragraph_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum",
+        "sub_heading": "Misión"
+    },
+    "contact_banner_section": {
+        "heading": "Contáctanos",
+        "paragraph": "Desarrollamos las relaciones que respaldan la siguiente fase de crecimiento de tu organización."
+    },
+
+    "contact_us_section": {
+        "heading": "Contáctanos",
+        "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.",
+        "paragraph_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum",
+        "sub_heading": "Nosotros"
+    },
+
+    "contact_get_in_section": {
+        "heading": "Ponte en",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.",
+        "sub_heading": "Contacto"
+    },
+
+    "contact_form_section": {
+        "title_1": "Tu Nombre",
+        "place_holder_1": "Ingresa tu Nombre",
+        "title_2": "Tu Correo Electrónico",
+        "place_holder_2": "Ingresa tu Dirección de Correo Electrónico",
+        "title_3": "Asunto",
+        "place_holder_3": "Ingresa el Asunto",
+        "title_4": "Tu Mensaje",
+        "place_holder_4": "Ingresa tu Mensaje",
+        "button": "Enviar"
+    },
+
+    "login_form_section": {
+        "button_1": "Como Usuario",
+        "button_2": "Como Consultor",
+        "label_1": "Dirección de Correo Electrónico",
+        "label_2": "Contraseña",
+        "label_3": "¿Olvidaste tu Contraseña?",
+        "button_3": "Iniciar Sesión",
+        "label_4": "¿No tienes una cuenta?",
+        "label_5": "Regístrate",
+        "label_6": "O Inicia Sesión con redes sociales",
+        "verify": "Verificar",
+        "resend": "Reenviar"
+    },
+
+    "signup_form_section": {
+        "button_1": "Como Usuario",
+        "button_2": "Como Consultor",
+        "label_1": "Primer Nombre",
+        "label_2": "Apellido",
+        "label_3": "Dirección de Correo Electrónico",
+        "label_4": "Contraseña",
+        "label_5": "Repetir Contraseña",
+        "button_3": "Registrarse",
+        "label_6": "¿Ya tienes una cuenta?",
+        "label_7": "Iniciar Sesión",
+        "label_8": "O Regístrate con redes sociales",
+        "label_9": "Registrarse",
+        "label_10": "Registrarse"
+    },
+    "terms_conditions": {
+        "agree": "Aceptar nuestros términos y condiciones"
+    },
+    "mentee_profile_main": {
+        "main": "Bienvenido",
+        "picture": "Cargar Archivo",
+        "visible": "Visibilidad del Perfil",
+        "label_1": "Primer Nombre",
+        "label_2": "Apellido",
+        "label_3": "Género",
+        "label_31": "Género",
+        "label_32": "Masculino",
+        "label_33": "Femenino",
+        "label_4": "País",
+        "label_5": "Ciudad",
+        "label_6": "Correo Electrónico",
+        "label_7": "Teléfono",
+        "label_8": "Estado",
+
+        "button": "Actualizar"
+    },
+
+    "mentee_profile_menu": {
+        "profile": "Perfil",
+        "appointment": "Registro de Citas",
+        "wallet": "Cartera",
+        "logout": "Cerrar Sesión"
+    },
+
+    "mentee_chat": {
+        "placeholder_1": "Escribe aquí..."
+    },
+
+    "welcome_text": "Bienvenido a la agencia de consultoría",
+
+    "subscribe_newsletter": {
+        "main_title": "Suscríbete a nuestro Boletín",
+        "sub_heading": "Puedes suscribirte a nuestro boletín para descuentos y actualizaciones semanales.",
+        "fields": {
+            "placeholder": "Ingresa tu Correo Electrónico aquí",
+            "btn_label": "Enviar"
+        }
+    },
+    "payment_partner": {
+        "main_title": "Nuestro Socio de Pagos",
+        "sub_heading": "Puedes utilizar los siguientes métodos de pago según tu elección."
+    },
+    "homepage": {
+        "hero_section": {
+            "main_title": "Encuentra los servicios de consultoría que necesitas, rápido",
+            "sub_heading": "Experiencia de élite, a demanda",
+            "lorem_ipsum": "",
+            "btn_create_account": "Crear una Cuenta",
+            "day": {
+                "label": "Agenda una cita",
+                "sub_heading": "Puedes agendar tu cita con solo un clic."
+            }
+        },
+        "category_section": {
+            "main_title": "Elige la categoría que necesitas",
+            "sub_heading": "Ofrecemos una amplia gama de consultorías en las siguientes categorías",
+            "view_all_btn": "Ver Todas las Categorías"
+        },
+        "top_consultants": {
+            "main_title": "Los Mejores Consultores están aquí",
+            "sub_heading": "Para proporcionarte soluciones para tus dilemas y complejidades.",
+            "btn_label": "Ver Todos los Consultores"
+        },
+        "become_consultant": {
+            "main_title": "Cómo registrarte como Consultor",
+            "sub_heading": "Aquí hay 4 simples pasos para registrarte como mentor.",
+            "btn_label": "Ver en YouTube",
+            "steps": {
+                "step1": {
+                    "main_title": "PASO 1",
+                    "sub_heading": "Ingresa tu Información Personal"
+                },
+                "step2": {
+                    "main_title": "PASO 2",
+                    "sub_heading": "Ingresa tus credenciales educativas y de experiencia"
+                },
+                "step3": {
+                    "main_title": "PASO 3",
+                    "sub_heading": "Habla sobre tu campo de experiencia y habilidades"
+                },
+                "step4": {
+                    "main_title": "PASO 4",
+                    "sub_heading": "Configura tu disponibilidad, modo de consultoría (Audio, video y chat) y tus tarifas."
+                }
+            }
+        }
+    },
+    "all_categories": {
+        "main_title": "Todas las Categorías",
+        "sub_heading": "Ofrecemos una amplia gama de categorías para consultar con tu Consultor; hemos tratado de incluir todas las categorías donde puedes discutir tus problemas con expertos en sus campos. Te guiarán de la mejor manera.",
+        "fields": {
+            "placeholder": "Ingresa tu Palabra Clave Aquí",
+            "btn_label": "Buscar"
+        }
+    },
+    "aboutus": {
+        "section1": {
+            "title": "Acerca de Nosotros",
+            "paragraph_text1": "Mashvra es una plataforma de cuidado humano, consultoría y un centro de soluciones que permite a los mentees reservar a los expertos de cada campo de la vida en segundos, en relación con la atención médica, espiritual, religiosa, corporativa, financiera, psicológica, social, educativa, profesional, legal, cultural, viajes y cualquier otro experto/consultor/especialista en todo el mundo, a través de una conectividad virtual confiable y segura las 24 horas del día, los 7 días de la semana, con los profesionales para brindar soluciones. Se utilizan métodos de pago fáciles y amigables para el usuario.",
+            "paragraph_text2": ""
+        },
+        "section2": {
+            "title": "¿Por Qué Elegirnos?",
+            "paragraph_text1": "Mashvra es una plataforma para que los Mentees (quienes necesitan consultoría) conozcan a sus consultores (consultores) y discutan sobre sus complicaciones y problemas. Cubrimos casi todos los factores de la vida como; médico, educación, comida, negocios, cultural, problemas psicológicos, civiles, ingenieros, estilo de vida, moda, carrera y muchos más. El mentee puede revisar el perfil del Consultor, reservar la cita y discutir el problema. Los tres modos de comunicación (chat, llamada de audio y video) están disponibles en Mashvra. Se ofrecen métodos de pago fáciles para evitar problemas.",
+            "paragraph_text2": ""
+        },
+        "section3": {
+            "title": "Nuestra Misión",
+            "paragraph_text1": "Nuestra misión es proporcionar la facilidad para aquellas personas que no tienen tiempo o debido a otros problemas no pueden visitar a la persona correspondiente. Mashvra está proporcionando la facilidad de consultoría con solo un clic. Hoy en día es la era de la digitalización y la mayoría de las personas son diligentes en un ciclo diario. También enfrentan problemas, por lo que necesitan consultar con una persona especializada. Mashvra les proporciona esa plataforma donde pueden encontrar solución para sus problemas.",
+            "paragraph_text2": ""
+        }
+    },
+    "blogs": {
+        "title": "BLOGS",
+        "sub_heading": "Puedes encontrar las mejores investigaciones y blogs aquí.",
+        "btn_label": "Leer Más",
+        "top_posts": "Publicaciones Principales"
+    },
+    "contact": {
+        "section": {
+            "title": "Contáctanos",
+            "paragraph_text1": "Puedes contactarnos en los siguientes recursos. Puedes proporcionar comentarios sobre los servicios y también escribir sugerencias. Estamos disponibles las 24 horas del día, los 7 días de la semana.",
+            "paragraph_text2": "..."
+        },
+        "call_us": {
+            "title": "Llámanos",
+            "sub_heading": "----",
+            "number": "03228907654"
+        },
+        "email_us": {
+            "title": "Envíanos un Correo",
+            "sub_heading": "----",
+            "email": "info@mashvra.com"
+        },
+        "address": {
+            "title": "Dirección",
+            "sub_heading": "----",
+            "address": "D ground, Faisalabad"
+        }
+    },
+    "appointment_log": {
+        "main_title": "Registro de Citas",
+        "label_1": "Citas Pendientes",
+        "label_2": "Citas Aceptadas",
+        "label_3": "Citas Canceladas",
+        "label_4": "Citas Completadas",
+        "label_5": "Citas Archivadas",
+        "un_archive": "Desarchivar",
+        "archive": "Archivar",
+        "tab": {
+            "pending": {
+                "label": "Pendientes",
+                "search": {
+                    "label": "Buscar",
+                    "placeholder": "Escribe aquí..."
+                },
+                "column": {
+                    "question": "Pregunta",
+                    "consultant": "Consultor",
+                    "appointment_no": "N° de Cita",
+                    "name": "Nombre",
+                    "date": "Fecha",
+                    "time": "Hora",
+                    "type": "Tipo",
+                    "amount": "Monto",
+                    "p_Status": "P-Estado",
+                    "status": "Estado",
+                    "action": "Acción",
+                    "price_symbol": "Rs",
+                    "paid_text": "Pagado",
+                    "unpaid_text": "No Pagado",
+                    "appointment_status": {
+                        "pending": "Pendiente",
+                        "accepted": "Aceptada",
+                        "completed": "Completada",
+                        "cancel": "Cancelada",
+                        "archived": "Archivada"
+                    }
+                },
+                "button": {
+                    "view_details": "Ver Detalles",
+                    "accept": "Aceptar",
+                    "reject": "Rechazar",
+                    "download_invoice": "Descargar Factura",
+                    "re_schedule": "Reprogramar"
+                },
+                "appointment_info": {
+                    "heading": "Información de la Cita",
+                    "date": "Fecha",
+                    "question": "Pregunta",
+                    "time": "Hora",
+                    "appointment_no": "N° de Cita",
+                    "appointment_type": "Tipo de Cita",
+                    "status": "Estado",
+                    "attachment": "Adjunto"
+                }
+            },
+            "all_appointments": {
+                "label": "Todas las Citas",
+                "search": {
+                    "label": "Buscar",
+                    "placeholder": "Escribe aquí..."
+                },
+                "filter_by": {
+                    "lable": "Filtrar por",
+                    "select_status": "Seleccionar Estado",
+                    "pending": "Pendiente",
+                    "accepted": "Aceptada",
+                    "completed": "Completada",
+                    "cancel": "Cancelada"
+                },
+                "column": {
+                    "question": "Pregunta",
+                    "consultant": "Consultor",
+                    "appointment_no": "N° de Cita",
+                    "name": "Nombre",
+                    "date": "Fecha",
+                    "time": "Hora",
+                    "type": "Tipo",
+                    "amount": "Monto",
+                    "p_Status": "P-Estado",
+                    "status": "Estado",
+                    "label": "Acción",
+                    "price_symbol": "Rs",
+                    "paid_text": "Pagado",
+                    "unpaid_text": "No Pagado",
+                    "appointment_status": {
+                        "pending": "Pendiente",
+                        "accepted": "Aceptada",
+                        "completed": "Completada",
+                        "cancel": "Cancelada"
+                    }
+                },
+                "button": {
+                    "view_details": "Ver Detalles",
+                    "accept": "Aceptar",
+                    "reject": "Rechazar"
+                }
+            }
+        }
+    },
+    "appointment_detail": {
+        "main_title": "Registro de Citas",
+        "sub_heading": "Información del Consultor",
+        "heading": "Información de la Cita",
+        "user_info": {
+            "info": "Información del Usuario",
+            "name": "Nombre",
+            "city": "Ciudad",
+            "gender": "Género",
+            "member_status": "Estado de Miembro",
+            "registration_date": "Fecha de Registro"
+        },
+        "status": {
+            "label": "Estado",
+            "pending": "Pendiente",
+            "accepted": "Aceptada",
+            "completed": "Completada",
+            "cancel": "Cancelada"
+        },
+        "btn": {
+            "accept": "Aceptar",
+            "reject": "Rechazar",
+            "rate_now": "Calificar Ahora",
+            "chat_now": "Chatear Ahora",
+            "chat_close": "Cerrar Chat",
+            "select_rating": "Seleccionar Calificación",
+            "comment": "Comentario",
+            "placeholder_comment": "Escribe tu comentario aquí",
+            "close": "Cerrar",
+            "save": "Guardar Cambios",
+            "mark_complete": "Marcar como Completada",
+            "join_video_call": "Unirse a la Llamada de Video",
+            "join_audio_call": "Unirse a la Llamada de Audio",
+            "leave_appointment": "Salir de la Cita"
+        },
+        "info": {
+            "heading": "Información de la Cita",
+            "date": "Fecha",
+            "questions": "Pregunta",
+            "time": "Hora",
+            "appointment_number": "N° de Cita",
+            "appointment_type": "Tipo de Cita:",
+            "document": "Documento:",
+            "attachment": "Adjunto"
+        }
+    },
+    "mentor": {
+        "dashboard": {
+            "total_appointment": "Citas Totales",
+            "appointment_cancelled": "Citas Canceladas",
+            "todays_appointment": "Citas de Hoy",
+            "view_all": "Ver Todas",
+            "paragraph_text1": "Bienvenido a tu panel de control, puedes ver tus citas totales, canceladas y de hoy.",
+            "table": {
+                "questions": "Preguntas",
+                "date": "Fecha",
+                "time": "Hora",
+                "type": "Tipo",
+                "amount": "Monto",
+                "p_status": "P-Estado",
+                "action": "Acción",
+                "paid_text": "Pagado",
+                "unpaid_text": "No Pagado",
+                "view_details": "Ver Detalles"
+            },
+            "rating": {
+                "label": "Calificaciones y Reseñas",
+                "total": "Total"
+            }
+        },
+        "profile": {
+            "main_title": "Completa Tu Perfil",
+            "sub_heading": "Ingresa tu Información Personal, educación, experiencia, habilidades y detalles bancarios.",
+            "incomplete_alert": "Tu perfil está incompleto. Por favor, completa tu perfil.",
+            "under_review": "¡Tu perfil está siendo revisado! Se te notificará una vez que sea aprobado.",
+            "sections": {
+                "step1": {
+                    "label": "Paso 1",
+                    "sub_heading": "Información Personal"
+                },
+                "step2": {
+                    "label": "Paso 2",
+                    "sub_heading": "Información Educativa"
+                },
+                "step3": {
+                    "label": "Paso 3",
+                    "sub_heading": "Tus Habilidades"
+                },
+                "step4": {
+                    "label": "Paso 4",
+                    "sub_heading": "Información de la Cuenta"
+                }
+            },
+            "general": {
+                "title": "Información General",
+                "welcome": "Bienvenido",
+                "upload_file": "Cargar Archivo",
+                "status": "Estado en Línea",
+                "btn_continue": "Continuar",
+                "btn_back": "Atrás",
+                "btn_finish": "Finalizar",
+                "place_holder": {
+                    "first_name": "Primer Nombre",
+                    "last_name": "Apellido",
+                    "email": "Correo Electrónico",
+                    "phone": "Ingresa tu Teléfono",
+                    "address": "Dirección",
+                    "father_name": "Nombre del Padre",
+                    "cnic": "Cédula de Identidad",
+                    "gender": {
+                        "label": "Seleccionar Género",
+                        "male": "Masculino",
+                        "female": "Femenino",
+                        "other": "Otro"
+                    },
+                    "select_religion": "Seleccionar Religión",
+                    "date_of_birth": "Fecha de Nacimiento",
+                    "occupation": "Ocupación",
+                    "select_country": "Seleccionar País",
+                    "select_state": "Seleccionar Estado",
+                    "Select_city": "Seleccionar Ciudad",
+                    "upload_your_image_here": "Cargar Tu Imagen Aquí",
+                    "btn_label": "ACTUALIZAR",
+                    "about_yourself": "Acerca de Ti",
+                    "gender1": "Género",
+                    "country": "País",
+                    "state": "Estado",
+                    "city": "Ciudad"
+                }
+            },
+            "education": {
+                "title": "Información Educativa",
+                "place_holder": {
+                    "Select_degree": "Seleccionar Grado",
+                    "institution": "Institución",
+                    "subject": "Asunto",
+                    "year": "Año",
+                    "image": "Cargar Imagen de Certificado Educativo Aquí",
+                    "btn_label": "+ Agregar Educación"
+                },
+                "table": {
+                    "title": "Info de Educación",
+                    "degree": "Grado",
+                    "institution": "Institución",
+                    "subject": "Asunto",
+                    "certificate_image": "Imagen del Certificado",
+                    "Year": "Año",
+                    "actions": "Acciones"
+                }
+            },
+            "experience": {
+                "title": "Información de Experiencia",
+                "place_holder": {
+                    "company_name": "Nombre de la Empresa",
+                    "from": "Desde",
+                    "to": "Hasta",
+                    "image": "Cargar Imagen de Certificado de Experiencia Aquí",
+                    "btn_label": "+ Agregar Info de Experiencia"
+                },
+                "table": {
+                    "title": "Info de Experiencia",
+                    "company": "Nombre de la Empresa",
+                    "period_from": "Desde",
+                    "period_to": "Hasta",
+                    "certificate_image": "Imagen del Certificado",
+                    "actions": "Acciones"
+                }
+            },
+            "skill": {
+                "title": "Agregar Habilidades Profesionales",
+                "select_categories": "Seleccionar Categorías",
+                "categories": "Categorías",
+                "select_subcategories": "Seleccionar SubCategorías",
+                "btn_label": "+ Agregar Habilidad",
+                "reset_label": "Restablecer",
+                "skill_table": {
+                    "parent_category": "Categorías",
+                    "sub_category": "SubCategoría"
+                }
+            },
+            "account_information": {
+                "title": "Agregar Detalles de Cuenta Bancaria",
+                "select_bank_name": "Seleccionar Nombre del Banco",
+                "account_holder_name": "Nombre del Titular de la Cuenta",
+                "account_number": "Número de Cuenta",
+                "btn_label": "+ Agregar Detalles Bancarios"
+            }
+        }
+    },
+    
+    "header_menu": {
+        "home": "Inicio",
+        "categories": "Categorías",
+        "about_us": "Acerca de Nosotros",
+        "blogs": "Blogs",
+        "contact_us": "Contáctanos",
+        "become_consultant": "Conviértete en Consultor",
+        "login": "Iniciar Sesión",
+        "dropdown": {
+            "dashboard": "Panel de Control",
+            "profile": "Perfil",
+            "appointment_log": "Registro de Citas",
+            "generate_schedule": "Generar Horario",
+            "blogs": "Blogs",
+            "wallet": "Cartera",
+            "logout": "Cerrar Sesión"
+        }
+    },
+    "footer": {
+        "main_title": "Síguenos en Redes Sociales",
+        "any_queries": "Cualquier Consulta",
+        "mentee": {
+            "title": "Mentee",
+            "login": "Iniciar Sesión",
+            "register": "Registrarse",
+            "dashboard": "Panel de Control"
+        },
+        "consultant": {
+            "title": "Consultor",
+            "login": "Iniciar Sesión",
+            "register": "Registrarse",
+            "dashboard": "Panel de Control"
+        },
+        "about_company": {
+            "title": "Acerca de la Empresa",
+            "payment": "Pago",
+            "terms_&_conditions": "Términos y Condiciones",
+            "policy": "Política de Privacidad",
+            "refunds_policy": "Política de Reembolsos",
+            "terms_for_consultant": "Términos para el Consultor",
+            "terms_for_mentee": "Términos para el Mentee"
+        },
+        "help": {
+            "title": "Estamos aquí para ayudarte",
+            "field": {
+                "name": "Nombre",
+                "email": "Correo Electrónico",
+                "subject": "Asunto"
+            },
+            "btn_label": "ENVIAR"
+        }
+    },
+    
+    "generate_scheduling": {
+        "main_title": "Generar Espacios de Cita",
+        "main_title1": "Generar Horario",
+        "sub_heading": "Puedes generar tus propios espacios según tu disponibilidad. Estos espacios pueden consistir en 'tiempo en un día' o 'día en una semana' en modo de comunicación (Chat, Audio, Video y Físico), y estructura de tarifas.",
+        "tab": {
+            "main_title": "Seleccionar tipo de Horario"
+        },
+        "side_labels": {
+            "chat": "Horario por Chat",
+            "video": "Consulta por Video",
+            "audio": "Consulta por Audio",
+            "onsite": "Consulta en el Lugar",
+            "home": "Consulta a Domicilio"
+        },
+        "chat": {
+            "main_title": "Horario de Consulta por Chat",
+            "sub_heading": "Puedes establecer tu tarifa de consulta para el modo de chat.",
+            "label": "Seleccionar Tarifas para el Chat",
+            "per_chat_charges": "Tarifas por Chat",
+            "placeholder_fee": "Ingresar Tarifa de Chat",
+            "placeholder_btn_update": "Actualizar Tarifa"
+        },
+        "video": {
+            "tab_title": "Tarifas de Consulta por Video",
+            "main_title": "Horario de Consulta por Video",
+            "sub_heading": "Puedes crear un horario para cuántos días estarás disponible en una semana o en un mes. Puedes establecer tus tarifas y estar disponible para consultas por video durante el día.",
+            "select_day_heading": "Seleccionar Día para tu Horario",
+            "label": "Ingresar Tarifas de Consulta por Video:",
+            "fill_schedule_heading": "Completa tus Campos para terminar tu horario de video y generar espacios",
+            "slot_fee": "Ingresar Tarifa",
+            "select_day": "Seleccionar Día",
+            "select_time_slot": "Seleccionar Intervalo de Espacios de Tiempo:",
+            "generated_slot": "Espacios Generados",
+            "interval": "Intervalo"
+        },
+        "audio": {
+            "heading": "Horario de Consulta por Audio",
+            "tab_title": "Tarifas de Consulta por Audio",
+            "main_title": "Ingresar Tarifas de Consulta por Audio:",
+            "sub_heading": "Puedes crear un horario para cuántos días estarás disponible en una semana o en un mes. Puedes establecer tus tarifas y estar disponible para consultas por audio durante el día.",
+            "select_day_heading": "Seleccionar Día para tu Horario",
+            "label": "Ingresar Tarifas de Consulta por Audio",
+            "fill_schedule_heading": "Completa tus Campos para terminar tu horario de audio y generar espacios",
+            "slot_fee": "Ingresar Tarifa",
+            "select_day": "Seleccionar Día",
+            "select_time_slot": "Seleccionar Intervalo de Espacios de Tiempo",
+            "generated_slot": "Espacios Generados"
+        },
+        "on_site": {
+            "heading": "Horario de Consulta en el Lugar",
+            "tab_title": "Tarifas de Consulta en el Lugar",
+            "main_title": "Ingresar Tarifas de Consulta en el Lugar",
+            "sub_heading": "Puedes crear un horario para cuántos días estarás disponible en una semana o en un mes. Puedes establecer tus tarifas y estar disponible para consultas en el lugar durante el día.",
+            "select_day_heading": "Seleccionar Día para tu Horario",
+            "label": "Ingresar Tarifas de Consulta en el Lugar",
+            "fill_schedule_heading": "Completa tus Campos para terminar tu horario de consulta en el lugar y generar espacios",
+            "slot_fee": "Ingresar Tarifa",
+            "select_day": "Seleccionar Día",
+            "select_time_slot": "Seleccionar Intervalo de Espacios de Tiempo",
+            "generated_slot": "Espacios Generados"
+        },
+        "home_visit": {
+            "heading": "Horario de Consulta a Domicilio",
+            "tab_title": "Tarifas de Consulta a Domicilio",
+            "main_title": "Ingresar Tarifas de Consulta a Domicilio",
+            "sub_heading": "Puedes crear un horario para cuántos días estarás disponible en una semana o en un mes. Puedes establecer tus tarifas para servicios de consulta a domicilio y tu disponibilidad para visitas en el día.",
+            "select_day_heading": "Seleccionar Día para tu Horario",
+            "label": "Ingresar Tarifas de Consulta a Domicilio",
+            "fill_schedule_heading": "Completa tus Campos para terminar tu horario de consulta a domicilio y generar espacios",
+            "slot_fee": "Ingresar Tarifa",
+            "select_day": "Seleccionar Día",
+            "select_time_slot": "Seleccionar Intervalo de Espacios de Tiempo",
+            "generated_slot": "Espacios Generados"
+        },
+        "btn": {
+            "update": "Actualizar",
+            "submit": "Enviar",
+            "reset": "Restablecer",
+            "generate_slot": "Generar Espacios",
+            "submit_slot": "ENVIAR TUS ESPACIOS"
+        },
+        "days": {
+            "monday": "Lunes",
+            "tuesday": "Martes",
+            "wednesday": "Miércoles",
+            "thursday": "Jueves",
+            "friday": "Viernes",
+            "saturday": "Sábado",
+            "sunday": "Domingo",
+            "holiday": "Día Festivo",
+            "available": "Disponible",
+            "btn_label": "Actualizar"
+        },
+        "status": {
+            "available": "Disponible",
+            "holiday": "Día Festivo"
+        },
+        "slots": {
+            "select_day": "Seleccionar Día",
+            "label": "Intervalo",
+            "time": "10 Min"
+        },
+    
+        "generated": {
+            "label": "Horario Generado",
+            "selected_day": "Día Seleccionado",
+            "generated_slot": "Espacios Generados",
+            "day": "Día",
+            "fee": "Tarifa",
+            "appointment_type": "Tipo de Cita",
+            "audio_calling": "Llamada de Audio",
+            "video_calling": "Llamada de Video",
+            "home_visit": "Visita a Domicilio",
+            "on_site": "Consulta en el Lugar",
+            "delete": "Eliminar"
+        }
+    },
+    "login": {
+        "tab_mentor": "Consultor",
+        "tab_mentee": "Mentee",
+        "login_btn": "Iniciar Sesión",
+        "mentor": {
+            "heading": "Iniciar Sesión Como Consultor",
+            "phone": "Ingresa tu Teléfono",
+            "btn_otp": "Enviar Código OTP",
+            "resend": "Reenviar",
+            "enter_otp": "Ingresa el Código OTP Abajo"
+        },
+        "mentee": {
+            "heading": "Iniciar Sesión Como Mentee",
+            "phone": "Ingresa tu Teléfono",
+            "btn_otp": "Enviar Código OTP",
+            "resend": "Reenviar",
+            "enter_otp": "Ingresa el Código OTP Abajo"
+        }
+    },
+    "book_appointment": {
+        "title": "Detalles del Consultor",
+        "sub_title": "Ver los detalles de tu Consultor y seleccionar fecha y hora para reservar tu cita",
+        "heading": "Seleccionar Fecha y Hora",
+        "btn_date": "Seleccionar Fecha",
+        "placeholder": "Seleccionar Fecha Primero",
+        "btn_continue": "Continuar",
+        "appointment_type": "Tipo de Cita",
+        "available_time_slots": "Espacios de Tiempo Disponibles",
+        "chat": "Chat",
+        "live": "En Vivo",
+        "chat_fee": "Tarifa de Chat",
+        "live_fee": "Tarifa",
+        "evening": "Tarde",
+        "afternoon": "Tarde",
+        "morning": "Mañana",
+        "slots_not_available": "No hay Espacios Disponibles",
+        "ask_ques": "Pregunta",
+        "payment_method": "Seleccionar Método de Pago",
+        "card_detail": "Ingresar Detalles de la Tarjeta",
+        "back": "Atrás",
+        "question": {
+            "title": "Haz Tu Pregunta",
+            "file_placeholder": "Subir Archivo",
+            "btn_select": " + Seleccionar archivo",
+            "text_placeholder": "Haz tu pregunta aquí",
+            "btn_submit": "Enviar",
+            "btn_back": "Atrás",
+            "btn_update": "Actualizar"
+        },
+        "make_payment": {
+            "label": "Realizar Pago",
+            "total_amount": "Monto Total",
+            "pay_now": "Pagar Ahora",
+            "pay_with_easypaisa": " Pagar con Easypaisa",
+            "enter_jazzcash_details": "Ingresar Detalles de Jazzcash",
+            "pay_with_jazzcash": "Pagar con Jazzcash",
+            "pay_with_wallet": "Pagar con la Billetera"
+        }
+    },
+    "thank_you": {
+        "first_title": "¡GRACIAS",
+        "second_title": "A TI!",
+        "sub_title": "Tu Cita ha sido Creada. Número de Cita"
+    },
+    "Book_an_appointment": {
+        "heading1": "Reservar una ",
+        "heading2": "cita",
+        "list_1": "¡Pide ayuda, 24/7",
+        "list_2": "¡Ahorra tiempo y dinero!",
+        "list_3": "Un Experto responderá en minutos",
+        "list_4": "Discute y obtén soluciones",
+        "list_5": "Califica y escribe comentarios",
+        "download_text": "1.2 Millones de Descargas"
+    },
+    "wallet_log": {
+        "main_heading": "Billetera",
+        "sub_heading": "",
+        "current_wallet_balance": "Saldo Actual de la Billetera",
+        "price_symbol": "Rs.",
+        "btn_label_withdraw": "Retirar Monto",
+        "btn_label_topup": "+ Agregar Dinero a la Billetera",
+        "table_heading": "Detalles de Todas las Transacciones",
+        "placeholder_amount": "Ingresar Monto",
+        "placeholder_name": "Nombre del Titular de la Tarjeta",
+        "placeholder_number": "Número de Tarjeta",
+        "placeholder_year": "Año",
+        "placeholder_month": "Mes",
+        "placeholder_code": "Código CVV",
+        "label_method": "Seleccionar Método de Pago",
+        "label_detail": "Ingresar Detalles de la Tarjeta",
+        "withdraw_amount": {
+            "title": "Retirar Monto",
+            "placeholder": {
+                "amount": "Ingresar Monto"
+            }
+        },
+        "topup": {
+            "title": "Agregar Dinero",
+            "placeholder": {
+                "amount": "Ingresar Monto",
+                "mobile_no": "Ingresar Número Móvil de Jazzcash",
+                "cnic_digit": "Ingresar Últimos 6 Dígitos de la CNIC"
+            }
+        },
+        "button": {
+            "close": "Cerrar",
+            "submit": "Guardar Cambios",
+            "success": "Éxito",
+            "decline": "Rechazar",
+            "deposit": "Depositar",
+            "withdraw": "Retirar"
+        },
+        "column": {
+            "date": "Fecha",
+            "time": "Hora",
+            "amount": "Monto",
+            "type": "Tipo",
+            "status": "Estado",
+            "payment_method": "Método de Pago"
+        }
+    },
+    "blog_detail": {
+        "main_heading": "Título del Blog Aquí",
+        "sub_heading": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente quod officiis sint excepturi nobis corrupti. Enim eius nesciunt officia quae debitis dolorem ab pariatur iure reprehenderit animi aliquam, dolores unde!",
+        "top_post": "Publicaciones Populares",
+        "see_also": "Ver También"
+    },
+    "mentor_profile_view": {
+        "title": "Perfil del Consultor",
+        "sub_heading": "",
+        "personal_info": "Información Personal",
+        "details": "Detalles",
+        "cnic": "CNIC",
+        "religion": "Religión",
+        "adress": "Dirección",
+        "gender": "Género",
+        "member_status": "Estado de Miembro",
+        "city": "Ciudad",
+        "country": "País",
+        "registered_date": "Fecha de Registro",
+        "education_details": "Detalles de Educación",
+        "experiences_details": "Detalles de Experiencia"
+    },
+    "all_consultant_page": {
+        "main_heading": "Todos los Consultores"
+    },
+    "consultant_blogs": {
+        "main_title": "Blog del Consultor",
+        "create": "Crear",
+        "create_blog": "Crear Blog",
+        "close": "Cerrar",
+        "yes": "Sí",
+        "no": "No",
+        "fields": {
+            "title": "Título",
+            "select_category": "Seleccionar Categoría",
+            "description" : "Descripción",
+            "image" : "Imagen"
+        },
+        "column": {
+            "sr_no": "No. SR.",
+            "title": "Título",
+            "category": "Categoría",
+            "approved" : "Aprobado",
+            "image": "Imagen",
+            "action": "Acción"
+        }
+    },
+    "consultant_blog_edit": {
+        "main_title": "Detalle del Blog",
+        "update": "Actualizar",
+        "fields": {
+            "title": "Título",
+            "select_category": "Seleccionar Categoría",
+            "description" : "Descripción",
+            "image" : "Imagen"
+        }
+    }            
+}
